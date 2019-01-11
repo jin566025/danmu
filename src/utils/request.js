@@ -3,7 +3,7 @@ import axios from 'axios'
 import router from '@/router'
 const request = axios.create({
 	// baseURL:"http://47.110.56.193/api/",
-	baseURL:"http://yxtest.51tjs.cn",
+	baseURL:"https://game.51tjs.cn",
 	
 })
 
